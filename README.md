@@ -178,7 +178,7 @@ Fruits/
 └── README.md
 ```
 
-Исходный кейс: [ноутбук автора на Kaggle](https://www.kaggle.com/code/mrmoderator/fruits).
+Исходный кейс: [ноутбук на Kaggle](https://www.kaggle.com/code/mrmoderator/fruits).
 
 ---
 
