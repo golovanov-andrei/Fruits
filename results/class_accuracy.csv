@@ -1,0 +1,270 @@
+class_index,class_name,test_accuracy,test_images
+0,Almonds 1,0.75,16
+1,Apple 10,0.3125,16
+2,Apple 11,0.8125,16
+3,Apple 12,0.5625,16
+4,Apple 13,0.5625,16
+5,Apple 14,0.625,16
+6,Apple 17,0.3125,16
+7,Apple 18,0.9375,16
+8,Apple 19,0.875,16
+9,Apple 20,0.625,16
+10,Apple 21,0.75,16
+11,Apple 22,0.3125,16
+12,Apple 23,1.0,16
+13,Apple 5,0.625,16
+14,Apple 6,0.25,16
+15,Apple 7,0.5625,16
+16,Apple 8,0.3125,16
+17,Apple 9,0.375,16
+18,Apple Braeburn 1,0.1875,16
+19,Apple Crimson Snow 1,0.5,16
+20,Apple Golden 1,0.9375,16
+21,Apple Golden 2,1.0,16
+22,Apple Golden 3,0.375,16
+23,Apple Granny Smith 1,0.8125,16
+24,Apple Pink Lady 1,0.125,16
+25,Apple Red 1,0.5,16
+26,Apple Red 2,0.9375,16
+27,Apple Red 3,0.75,16
+28,Apple Red Delicious 1,0.875,16
+29,Apple Red Yellow 1,0.5625,16
+30,Apple Red Yellow 2,0.9375,16
+31,Apricot 1,0.75,16
+32,Avocado 1,1.0,16
+33,Avocado 2,0.875,16
+34,Avocado Black 1,0.5625,16
+35,Avocado Black 2,1.0,16
+36,Avocado Green 1,0.375,16
+37,Banana 1,1.0,16
+38,Banana 3,0.8125,16
+39,Banana 4,1.0,16
+40,Banana Lady Finger 1,0.875,16
+41,Banana Red 1,0.9375,16
+42,Bean pod 1,1.0,16
+43,Beetroot 1,0.375,16
+44,BlackBerry 4,1.0,16
+45,Blackberry 1,0.3125,16
+46,Blackberry 2,0.6875,16
+47,Blackberry 3,0.875,16
+48,Blackberry 5,0.625,16
+49,Blueberry 1,0.9375,16
+50,Cabbage red 1,1.0,16
+51,Cabbage white 1,1.0,16
+52,Cactus fruit 1,1.0,16
+53,Cactus fruit green 1,1.0,16
+54,Cactus fruit red 1,0.875,16
+55,Caju seed 1,0.875,16
+56,Cantaloupe 1,1.0,16
+57,Cantaloupe 2,1.0,16
+58,Cantaloupe 3,0.0625,16
+59,Carambola 1,1.0,16
+60,Carambola 2,0.625,16
+61,Carambola 3,1.0,16
+62,Carrot 1,1.0,16
+63,Cauliflower 1,1.0,16
+64,Celery 1,0.875,16
+65,Cherimoya 1,0.875,16
+66,Cherry 1,1.0,16
+67,Cherry 2,1.0,16
+68,Cherry 3,0.4375,16
+69,Cherry 4,0.0625,16
+70,Cherry 5,0.75,16
+71,Cherry Rainier 1,0.5625,16
+72,Cherry Rainier 2,0.9375,16
+73,Cherry Rainier 3,0.75,16
+74,Cherry Sour 1,0.125,16
+75,Cherry Wax 1,0.5,16
+76,Cherry Wax 2,0.75,16
+77,Cherry Wax Black 1,0.6875,16
+78,Cherry Wax Red 1,1.0,16
+79,Cherry Wax Red 2,0.625,16
+80,Cherry Wax Red 3,0.3125,16
+81,Cherry Wax Yellow 1,1.0,16
+82,Chestnut 1,0.875,16
+83,Clementine 1,0.875,16
+84,Cocos 1,1.0,16
+85,Corn 1,0.625,16
+86,Corn Husk 1,0.625,16
+87,Cucumber 1,1.0,16
+88,Cucumber 10,0.5625,16
+89,Cucumber 11,1.0,16
+90,Cucumber 12,0.875,16
+91,Cucumber 13,0.5,16
+92,Cucumber 3,0.5625,16
+93,Cucumber 4,0.6875,16
+94,Cucumber 5,0.5,16
+95,Cucumber 6,0.875,16
+96,Cucumber 7,0.3125,16
+97,Cucumber 8,0.75,16
+98,Cucumber 9,0.9375,16
+99,Dates 1,1.0,16
+100,Dates 2,0.5625,16
+101,Eggplant 1,0.5,16
+102,Eggplant long 1,1.0,16
+103,Fig 1,0.5,16
+104,Ginger 2,0.875,16
+105,Ginger Root 1,1.0,16
+106,Gooseberry 1,0.625,16
+107,Granadilla 1,1.0,16
+108,Grape 1,1.0,16
+109,Grape Blue 1,1.0,16
+110,Grape Pink 1,0.8125,16
+111,Grape White 1,0.625,16
+112,Grape White 2,1.0,16
+113,Grape White 3,1.0,16
+114,Grape White 4,1.0,16
+115,Grape pink 2,1.0,16
+116,Grapefruit Pink 1,1.0,16
+117,Grapefruit White 1,0.125,16
+118,Guava 1,0.875,16
+119,Hazelnut 1,1.0,16
+120,Huckleberry 1,0.9375,16
+121,Kaki 1,0.8125,16
+122,Kiwi 1,0.875,16
+123,Kohlrabi 1,1.0,16
+124,Kumquats 1,1.0,16
+125,Lemon 1,0.5625,16
+126,Lemon Meyer 1,1.0,16
+127,Limes 1,0.875,16
+128,Lychee 1,1.0,16
+129,Mandarine 1,1.0,16
+130,Mango 1,1.0,16
+131,Mango Red 1,0.3125,16
+132,Mangostan 1,0.8125,16
+133,Maracuja 1,0.6875,16
+134,Melon Piel de Sapo 1,0.9375,16
+135,Mulberry 1,0.875,16
+136,Mushroom champignon 1,0.0,16
+137,Mushroom champignon 2,0.5625,16
+138,Mushroom champignon 3,0.375,16
+139,Mushroom champignon 4,0.5,16
+140,Mushroom champignon 5,1.0,16
+141,Nectarine 1,0.5,16
+142,Nectarine Flat 1,0.5625,16
+143,Nectarine Flat 2,0.25,16
+144,Nut 1,0.9375,16
+145,Nut 2,0.125,16
+146,Nut 3,0.9375,16
+147,Nut 4,0.875,16
+148,Nut 5,0.375,16
+149,Nut Forest 1,0.4375,16
+150,Nut Pecan 1,0.375,16
+151,Onion 2,0.75,16
+152,Onion Red 1,0.9375,16
+153,Onion Red 2,0.5625,16
+154,Onion Red 3,0.8125,16
+155,Onion White 1,0.5,16
+156,Onion White 2,1.0,16
+157,Orange 1,1.0,16
+158,Orange 2,0.125,16
+159,Orange 3,0.625,16
+160,Orange 5,0.9375,16
+161,Orange peeled 1,1.0,16
+162,Papaya 1,0.625,16
+163,Papaya 2,0.6875,16
+164,Passion Fruit 1,0.6875,16
+165,Peach 1,0.1875,16
+166,Peach 2,0.4375,16
+167,Peach 3,0.9375,16
+168,Peach 4,0.4375,16
+169,Peach 5,0.5,16
+170,Peach 6,0.0625,16
+171,Peach Flat 1,0.75,16
+172,Peanut shell 1x 1,1.0,16
+173,Pear 1,0.5625,16
+174,Pear 10,0.4375,16
+175,Pear 11,0.625,16
+176,Pear 12,0.6875,16
+177,Pear 13,0.5,16
+178,Pear 14,0.8125,16
+179,Pear 2,0.3125,16
+180,Pear 3,0.625,16
+181,Pear 5,0.125,16
+182,Pear 6,0.3125,16
+183,Pear 7,0.75,16
+184,Pear 8,0.1875,16
+185,Pear 9,0.1875,16
+186,Pear Abate 1,0.9375,16
+187,Pear Forelle 1,0.75,16
+188,Pear Kaiser 1,1.0,16
+189,Pear Monster 1,0.875,16
+190,Pear Red 1,0.75,16
+191,Pear Stone 1,0.6875,16
+192,Pear Williams 1,1.0,16
+193,Pepino 1,0.375,16
+194,Pepper 1,0.75,16
+195,Pepper 2,0.875,16
+196,Pepper Green 1,1.0,16
+197,Pepper Orange 1,0.25,16
+198,Pepper Orange 2,0.25,16
+199,Pepper Red 1,0.75,16
+200,Pepper Red 2,1.0,16
+201,Pepper Red 3,0.8125,16
+202,Pepper Red 4,0.3125,16
+203,Pepper Red 5,0.25,16
+204,Pepper Yellow 1,0.75,16
+205,Physalis 1,1.0,16
+206,Physalis with Husk 1,1.0,16
+207,Pineapple 1,1.0,16
+208,Pineapple Mini 1,1.0,16
+209,Pistachio 1,0.625,16
+210,Pitahaya Red 1,1.0,16
+211,Pitahaya red 2,0.6875,16
+212,Pitahaya red 3,0.875,16
+213,Plum 1,1.0,16
+214,Plum 2,1.0,16
+215,Plum 3,1.0,16
+216,Plum 4,0.9375,16
+217,Plum 5,0.375,16
+218,Pomegranate 1,0.25,16
+219,Pomelo Sweetie 1,1.0,16
+220,Potato Red 1,0.0625,16
+221,Potato Red 2,0.25,16
+222,Potato Sweet 1,0.4375,16
+223,Potato White 1,0.75,16
+224,Quince 1,0.8125,16
+225,Quince 2,0.25,16
+226,Quince 3,0.875,16
+227,Quince 4,0.25,16
+228,Rambutan 1,1.0,16
+229,Raspberry 1,1.0,16
+230,Raspberry 2,0.3125,16
+231,Raspberry 3,1.0,16
+232,Raspberry 4,0.9375,16
+233,Raspberry 5,1.0,16
+234,Raspberry 6,0.9375,16
+235,Redcurrant 1,1.0,16
+236,Salak 1,1.0,16
+237,Strawberry 1,1.0,16
+238,Strawberry 2,0.6875,16
+239,Strawberry 3,0.9375,16
+240,Strawberry Wedge 1,0.625,16
+241,Tamarillo 1,0.625,16
+242,Tangelo 1,0.9375,16
+243,Tomato 1,0.625,16
+244,Tomato 10,0.875,16
+245,Tomato 11,0.6875,16
+246,Tomato 2,1.0,16
+247,Tomato 3,0.5625,16
+248,Tomato 4,1.0,16
+249,Tomato 5,0.625,16
+250,Tomato 7,1.0,16
+251,Tomato 8,0.5,16
+252,Tomato 9,0.625,16
+253,Tomato Cherry Maroon 1,0.9375,16
+254,Tomato Cherry Orange 1,1.0,16
+255,Tomato Cherry Red 1,0.5625,16
+256,Tomato Cherry Red 2,0.9375,16
+257,Tomato Cherry Yellow 1,0.9375,16
+258,Tomato Heart 1,0.3125,16
+259,Tomato Maroon 1,1.0,16
+260,Tomato Maroon 2,0.8125,16
+261,Tomato Yellow 1,0.5625,16
+262,Walnut 1,1.0,16
+263,Watermelon 1,1.0,16
+264,Zucchini 1,1.0,16
+265,Zucchini Green 1,1.0,16
+266,Zucchini dark 1,0.8125,16
+267,garlic bulb 1,0.875,16
+268,orange 4,0.8125,16
